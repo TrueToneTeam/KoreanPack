@@ -13,7 +13,7 @@ Minecraft: Bedrock Edition에서 한국어 번역이 자연스럽게 보이도�
   * Windows 10
 - - - - - - - - - - - - - - - - - - - -
 버그 또는 수정사항 전달 방법:
- * 깃허브 _Pull requests_에 작성
- * 깃허브 _Issues_에 작성
+ * 깃허브 _Pull requests_ 작성
+ * 깃허브 _Issues_ 작성
  * 카카오톡 1:1 채팅: 준비중
 - - - - - - - - - - - - - - - - - - - -
