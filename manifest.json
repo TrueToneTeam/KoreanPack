@@ -1,11 +1,11 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Minecraft: BE에서 사용중인 한국어에 대한 번역이 이상해서 이를 수정해주는 리소스 팩 입니다.",
+	"description": "Minecraft: BE에서 사용중인 한국어에 대한 번역이 이상해서 이를 수정해주는 리소스 팩 입니다.",
         "name": "Minecraft: BE - 번역 수정 리소스 팩",
         "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
         "version": [1, 11, 0],
-		"min_engine_version": [1, 16, 200]
+        "min_engine_version": [1, 16, 200]
     },
     "modules": [
         {
