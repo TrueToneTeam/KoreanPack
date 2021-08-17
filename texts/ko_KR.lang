@@ -280,7 +280,7 @@ achievementScreen.fetchingAchievements=도전 과제를 가져오는 중...	#
 achievementScreen.reward=보상	#
 
 action.hint.exit.boat=웅크리거나 점프해서 보트에서 내리기	#
-action.hint.exit.minecart=웅크리거나 점프해서 광산 수례에서 내리기	#
+action.hint.exit.minecart=웅크리거나 점프해서 광산 수레에서 내리기	#
 action.hint.exit.pig=웅크리거나 점프해서 내리기	#
 action.hint.exit.horse=웅크려서 내리기	#
 action.hint.exit.donkey=웅크려서 내리기	#
@@ -4339,7 +4339,7 @@ item.itemLock.hoverText.cantBe.moved=아이템 이동	#
 item.itemLock.hoverText.cantBe.dropped=아이템 뱉기	#
 item.itemLock.hoverText.cantBe.removed=아이템 제거	#
 item.itemLock.hoverText.cantBe.craftedWith=다른것과 함께 조합	#
-item.itemLock.keepOnDeath=이 아이템은 사망시 사라지지 않습니다.	#
+item.itemLock.keepOnDeath=이 아이템은 사망 시 사라지지 않습니다.	#
 item.itemLock.popupNotice.cantDrop=:hollow_star: 뱉기가 불가능한 아이템은 다음 행동을 할 수 없습니다!: 아이템 뱉기, 아이템 제거, 다른것과 함께 제작ㄴ	#
 item.itemLock.popupNotice.cantMove=:solid_star: 해당 아이템은 다음 행동을 할 수 없습니다!: 아이템 이동, 아이템 뱉기, 아이템 제거, 다른것과 함께 제작	#
 item.golden_carrot.name=황금 당근	#
@@ -8481,7 +8481,7 @@ hbui.AchievementsSummary.timePlayed=플레이한 시간:	#
 hbui.ErrorModal.goBack=돌아가기	#
 hbui.ErrorModal.title=오류가 발생했습니다	#
 
-trade.doesNotWant=상인이 원하는 게 아닙니다	#
+trade.doesNotWant=상인이 원하는 게 아닙니다!	#
 trade.excalamation=!	#
 trade.expProgress=경험치: %d/%d	#
 trade.expMax=경험치: 최대	#
@@ -8526,7 +8526,7 @@ client.version.1.4=Update Aquatic(%s)	#
 client.version.1.5=Update Aquatic(%s)	#
 client.version.1.11=마을과 약탈(%s)	#
 
-dr.banner.sale=세일!	#
+dr.banner.sale=할인!	#
 dr.banner.limitedTimeOffer=기간 한정 할인!	#
 dressingRoom.skin_color_picker_title=스킨 색	#
 dr.right_side.category_title=%s	#
@@ -8638,7 +8638,7 @@ dr.default.steve.top=스티브의 셔츠	#
 
 onlinePlay.notRated=온라인 플레이가 평가되지 않음	#
 onlinePlay.message=온라인 플레이 중에는 평가되지 않은 채팅 메시지 또는 기타 유형의 사용자 생성 콘텐츠에 노출될 수 있으며 모든 연령대에 적합하지 않을 수 있습니다.	#
-onlinePlay.doNotShowAgain=해당 화면을 다시 띄우지 않기.	#
+onlinePlay.doNotShowAgain=해당 화면을 다시 띄우지 않기	#
 onlinePlay.proceed=진행	#
 onlinePlay.Back=뒤로	#
 
@@ -8834,7 +8834,7 @@ tile.dirt_with_roots.name=뿌리내린 흙	#
 tile.hanging_roots.name=매달린 뿌리	#
 tile.moss_block.name=이끼 블록	#
 tile.moss_carpet.name=이끼 양탄자	#
-tile.big_dripleaf.name=큰 방울잎	#
+tile.big_dripleaf.name=큰 흘림잎	#
 tile.small_dripleaf_block.name=작은 방울잎	#
 tile.spore_blossom.name=포자 꽃	#
 item.glow_berries.name=발광 열매	#
@@ -8875,7 +8875,6 @@ tile.deepslate_copper_ore.name=심층암 구리 광석	#
 tile.cracked_deepslate_tiles.name=금 간 심층암 타일	#
 tile.cracked_deepslate_bricks.name=금 간 심층암 벽돌	#
 tile.glow_lichen.name=빛나는 이끼	#
-
 tile.raw_iron_block.name=철 원석 블록	#
 tile.raw_copper_block.name=구리 원석 블록	#
 tile.raw_gold_block.name=황금 원석 블록	#
