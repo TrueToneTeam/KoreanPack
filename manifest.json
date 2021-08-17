@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
 	"description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.",
-        "name": "Minecraft: BE - 번역 수정 리소스 팩",
+        "name": "[MCBE] Korean Pack",
         "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
-        "version": [1, 13, 0],
-        "min_engine_version": [1, 16, 220]
+        "version": [1, 13, 1],
+        "min_engine_version": [1, 17, 10]
     },
     "modules": [
         {
             "description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.",
             "type": "resources",
             "uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
-            "version": [1, 13, 0]
+            "version": [1, 13, 1]
         }
     ]
 }
