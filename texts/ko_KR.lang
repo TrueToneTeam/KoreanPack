@@ -2311,7 +2311,7 @@ edu.pause.multiplayer.disabled=이 수업에서는 멀티 플레이를 이용할
 effect.badOmen=흉조	#
 effect.villageHero=마을의 영웅	#
 
-enchantment.arrowDamage=강화	#
+enchantment.arrowDamage=힘	#
 enchantment.arrowFire=화염	#
 enchantment.arrowInfinite=무한	#
 enchantment.arrowKnockback=밀어내기	#
@@ -8500,6 +8500,12 @@ authserver.authfailed=오류가 발생했습니다. 이 서버는 서버 유효�
 
 platform.model.unknown=알 수 없음	#
 
+## Misc Compliance copy
+compliance.playtime.greaterThan24Hours=24시간 이상 플레이 했습니다	#
+compliance.playtime.message=과도한 게임은 일상생활에 무리를 줄 수 있습니다	#
+compliance.playtime.multipleHours=%d시간 동안 플레이 했습니다	#
+compliance.playtime.oneHour=1시간 동안 플레이 했습니다	#
+
 ## resource pack validation errors
 packdiscoveryerror.manifest_pack_error=팩을 열 수 없습니다.	#
 packdiscoveryerror.incomplete_pack=완전하지 않은 팩입니다.	#
@@ -9781,7 +9787,7 @@ tile.element.zn.name=아연	#
 tile.element.zr.name=지르코늄	#
 tile.elementconstructor.name=원소 구성기	#
 tile.hard_glass.name=강화 유리	#
-tile.hard_glass_pane.name=강화 판유리	#
+tile.hard_glass_pane.name=강화 유리판	#
 tile.hard_stained_glass.black.name=검은색 강화 유리	#
 tile.hard_stained_glass.blue.name=파란색 강화 유리	#
 tile.hard_stained_glass.brown.name=갈색 강화 유리	#
