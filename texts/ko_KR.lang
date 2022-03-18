@@ -10010,18 +10010,66 @@ entity.tadpole.name=올챙이	#
 effect.darkness=암흑	#
 
 itemGroup.name.sculk=스컬크	#
+itemGroup.name.goatHorn=염소 뿔	#
+itemGroup.name.copperHorn=구리 뿔	#
 
 item.bucketTadpole.name=올챙이가 담긴 양동이	#
 item.spawn_egg.entity.allay.name=알레이 생성 알	#
 item.spawn_egg.entity.frog.name=개구리 생성 알	#
 item.spawn_egg.entity.tadpole.name=올챙이 생성 알	#
 
+item.copper_horn.name=구리 뿔	#
+
+item.minecraft.copper_horn.harmony.0=엄청난	#
+item.minecraft.copper_horn.harmony.1=오래된	#
+item.minecraft.copper_horn.harmony.2=순수한	#
+item.minecraft.copper_horn.harmony.3=겸손한	#
+item.minecraft.copper_horn.harmony.4=마른	#
+item.minecraft.copper_horn.harmony.5=맑은	#
+item.minecraft.copper_horn.harmony.6=새로운	#
+item.minecraft.copper_horn.harmony.7=숨겨진	#
+item.minecraft.copper_horn.harmony.8=두려움 없는	#
+item.minecraft.copper_horn.harmony.9=달콤한	#
+
+item.minecraft.copper_horn.melody.0=하늘의	#
+item.minecraft.copper_horn.melody.1=찬송가의	#
+item.minecraft.copper_horn.melody.2=물의	#
+item.minecraft.copper_horn.melody.3=불의	#
+item.minecraft.copper_horn.melody.4=충동	#
+item.minecraft.copper_horn.melody.5=침착	#
+item.minecraft.copper_horn.melody.6=집	#
+item.minecraft.copper_horn.melody.7=호수의	#
+item.minecraft.copper_horn.melody.8=강의	#
+item.minecraft.copper_horn.melody.9=달과의	#
+
+item.minecraft.copper_horn.bass.0=추락	#
+item.minecraft.copper_horn.bass.1=휴식	#
+item.minecraft.copper_horn.bass.2=염원	#
+item.minecraft.copper_horn.bass.3=추억	#
+item.minecraft.copper_horn.bass.4=분노	#
+item.minecraft.copper_horn.bass.5=여정	#
+item.minecraft.copper_horn.bass.6=생각	#
+item.minecraft.copper_horn.bass.7=눈물	#
+item.minecraft.copper_horn.bass.8=선물	#
+item.minecraft.copper_horn.bass.9=사랑	#
+
+item.minecraft.goat_horn.sound.0=생각	#
+item.minecraft.goat_horn.sound.1=노래	#
+item.minecraft.goat_horn.sound.2=탐색	#
+item.minecraft.goat_horn.sound.3=느낌	#
+item.minecraft.goat_horn.sound.4=감탄	#
+item.minecraft.goat_horn.sound.5=호출	#
+item.minecraft.goat_horn.sound.6=동정	#
+item.minecraft.goat_horn.sound.7=저항	#
+item.minecraft.goat_horn.sound.8=날기	#
+item.minecraft.goat_horn.sound.9=꿈	#
+
 tile.sculk.name=스컬크	#
-tile.sculk_vein.name=스컬크 정맥	#
+tile.sculk_vein.name=스컬크 맥	#
 tile.sculk_catalyst.name=스컬크 촉매	#
-tile.sculk_shrieker.name=스컬크 쉬리커	#
+tile.sculk_shrieker.name=스컬크 비명체	#
 tile.sculk_sensor.name=스컬크 센서	#
-tile.frog_egg.name=개구리 알	#
-tile.pearlescent_froglight.name=진주빛 개구리등	#
+tile.frog_spawn.name=개구리 알	#
+tile.pearlescent_froglight.name=신록빛 개구리등	#
 tile.verdant_froglight.name=초록빛 개구리등	#
 tile.ochre_froglight.name=황토빛 개구리등	#
