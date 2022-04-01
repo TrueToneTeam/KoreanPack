@@ -313,6 +313,17 @@ action.hint.exit.donkey=웅크려서 내리기	#
 action.hint.exit.mule=웅크려서 내리기#
 action.hint.exit.llama=웅크려서 내리기	#
 action.hint.exit.skeleton_horse=웅크려서 내리기	#
+
+action.hint.exit.console.boat=보트에서 내리려면 :_input_key.sneak: 키를 누르세요.	#
+action.hint.exit.console.minecart=광산 수레에서 내리려면 :_input_key.sneak: 키를 누르세요.	#
+action.hint.exit.console.pig=내리려면 :_input_key.sneak: 키를 누르세요	#
+action.hint.exit.console.horse=내리려면 :_input_key.sneak: 키를 누르세요	#
+action.hint.exit.console.strider=내리려면 :_input_key.sneak: 키를 누르세요	#
+action.hint.exit.console.donkey=내리려면 :_input_key.sneak: 키를 누르세요	#
+action.hint.exit.console.mule=내리려면 :_input_key.sneak: 키를 누르세요	#
+action.hint.exit.console.llama=내리려면 :_input_key.sneak: 키를 누르세요	#
+action.hint.exit.console.skeleton_horse=내리려면 :_input_key.sneak: 키를 누르세요	#
+
 action.interact.creeper=점화	#
 action.interact.edit=편집	#
 action.interact.exit.boat=하선	#
@@ -10001,51 +10012,77 @@ tile.black_candle_cake.name=검은색 초가 꽂힌 케이크	#
 
 
 ## Minecraft 1.19 - The Wild Update
+feature.ancientcity=고대 도시	#
+
+action.hint.exit.chest_boat=웅크리거나 점프해서 보트에서 내리기	#
+action.hint.exit.console.chest_boat=보트에서 내리려면 :_input_key.jump: 키를 누르세요.	#
 action.interact.allay=알레이	#
 
 entity.allay.name=알레이	#
 entity.frog.name=개구리	#
 entity.tadpole.name=올챙이	#
+entity.chest_boat.name=상자가 실린 보트	#
+entity.warden.name=워든	#
 
 effect.darkness=암흑	#
 
 itemGroup.name.sculk=스컬크	#
 itemGroup.name.goatHorn=염소 뿔	#
 itemGroup.name.copperHorn=구리 뿔	#
+itemGroup.name.chestboat=상자가 실린 보트	#
+
+tile.sculk.name=스컬크	#
+tile.sculk_vein.name=스컬크 잎맥	#
+tile.sculk_catalyst.name=스컬크 촉매	#
+tile.sculk_shrieker.name=스컬크 비명체	#
+tile.sculk_sensor.name=스컬크 센서	#
+tile.frog_spawn.name=개구리 알	#
+tile.pearlescent_froglight.name=신록빛 개구리등	#
+tile.verdant_froglight.name=진줏빛 개구리등	#
+tile.ochre_froglight.name=황톳빛 개구리등	#
+tile.reinforced_deepslate.name=강화된 심층암	#
 
 item.bucketTadpole.name=올챙이가 담긴 양동이	#
 item.spawn_egg.entity.allay.name=알레이 생성 알	#
 item.spawn_egg.entity.frog.name=개구리 생성 알	#
 item.spawn_egg.entity.tadpole.name=올챙이 생성 알	#
+item.spawn_egg.entity.warden.name=워든 생성 알	#
 
 item.copper_horn.name=구리 뿔	#
+item.chest_boat.oak.name=상자가 실린 참나무 보트	#
+item.chest_boat.spruce.name=상자가 실린 가문비나무 보트	#
+item.chest_boat.birch.name=상자가 실린 자작나무 보트	#
+item.chest_boat.jungle.name=상자가 실린 정글 나무 보트	#
+item.chest_boat.acacia.name=상자가 실린 아카시아나무 보트	#
+item.chest_boat.big_oak.name=상자가 실린 짙은 참나무 보트	#
+item.chest_boat.mangrove.name=상자가 실린 맹그로브나무 보트	#
 
-item.minecraft.copper_horn.harmony.0=엄청난	#
+item.minecraft.copper_horn.harmony.0=위대한	#
 item.minecraft.copper_horn.harmony.1=오래된	#
 item.minecraft.copper_horn.harmony.2=순수한	#
-item.minecraft.copper_horn.harmony.3=겸손한	#
-item.minecraft.copper_horn.harmony.4=마른	#
-item.minecraft.copper_horn.harmony.5=맑은	#
-item.minecraft.copper_horn.harmony.6=새로운	#
-item.minecraft.copper_horn.harmony.7=숨겨진	#
-item.minecraft.copper_horn.harmony.8=두려움 없는	#
-item.minecraft.copper_horn.harmony.9=달콤한	#
+item.minecraft.copper_horn.harmony.3=초라한	#
+item.minecraft.copper_horn.harmony.4=건조한	#
+item.minecraft.copper_horn.harmony.5=깨끗한	#
+item.minecraft.copper_horn.harmony.6=신선한	#
+item.minecraft.copper_horn.harmony.7=비밀	#
+item.minecraft.copper_horn.harmony.8=겁 없는	#
+item.minecraft.copper_horn.harmony.9=다정한	#
 
-item.minecraft.copper_horn.melody.0=하늘의	#
-item.minecraft.copper_horn.melody.1=찬송가의	#
-item.minecraft.copper_horn.melody.2=물의	#
-item.minecraft.copper_horn.melody.3=불의	#
-item.minecraft.copper_horn.melody.4=충동	#
-item.minecraft.copper_horn.melody.5=침착	#
-item.minecraft.copper_horn.melody.6=집	#
-item.minecraft.copper_horn.melody.7=호수의	#
-item.minecraft.copper_horn.melody.8=강의	#
-item.minecraft.copper_horn.melody.9=달과의	#
+item.minecraft.copper_horn.melody.0=하늘	#
+item.minecraft.copper_horn.melody.1=찬가	#
+item.minecraft.copper_horn.melody.2=물	#
+item.minecraft.copper_horn.melody.3=불	#
+item.minecraft.copper_horn.melody.4=격려	#
+item.minecraft.copper_horn.melody.5=기질	#
+item.minecraft.copper_horn.melody.6=둥지	#
+item.minecraft.copper_horn.melody.7=호수	#
+item.minecraft.copper_horn.melody.8=강	#
+item.minecraft.copper_horn.melody.9=달	#
 
-item.minecraft.copper_horn.bass.0=추락	#
+item.minecraft.copper_horn.bass.0=낙하	#
 item.minecraft.copper_horn.bass.1=휴식	#
-item.minecraft.copper_horn.bass.2=염원	#
-item.minecraft.copper_horn.bass.3=추억	#
+item.minecraft.copper_horn.bass.2=소망	#
+item.minecraft.copper_horn.bass.3=기억	#
 item.minecraft.copper_horn.bass.4=분노	#
 item.minecraft.copper_horn.bass.5=여정	#
 item.minecraft.copper_horn.bass.6=생각	#
@@ -10053,23 +10090,13 @@ item.minecraft.copper_horn.bass.7=눈물	#
 item.minecraft.copper_horn.bass.8=선물	#
 item.minecraft.copper_horn.bass.9=사랑	#
 
-item.minecraft.goat_horn.sound.0=생각	#
+item.minecraft.goat_horn.sound.0=숙고	#
 item.minecraft.goat_horn.sound.1=노래	#
-item.minecraft.goat_horn.sound.2=탐색	#
+item.minecraft.goat_horn.sound.2=추구	#
 item.minecraft.goat_horn.sound.3=느낌	#
-item.minecraft.goat_horn.sound.4=감탄	#
+item.minecraft.goat_horn.sound.4=존경	#
 item.minecraft.goat_horn.sound.5=호출	#
-item.minecraft.goat_horn.sound.6=동정	#
+item.minecraft.goat_horn.sound.6=갈망	#
 item.minecraft.goat_horn.sound.7=저항	#
-item.minecraft.goat_horn.sound.8=날기	#
+item.minecraft.goat_horn.sound.8=비행	#
 item.minecraft.goat_horn.sound.9=꿈	#
-
-tile.sculk.name=스컬크	#
-tile.sculk_vein.name=스컬크 맥	#
-tile.sculk_catalyst.name=스컬크 촉매	#
-tile.sculk_shrieker.name=스컬크 비명체	#
-tile.sculk_sensor.name=스컬크 센서	#
-tile.frog_spawn.name=개구리 알	#
-tile.pearlescent_froglight.name=신록빛 개구리등	#
-tile.verdant_froglight.name=초록빛 개구리등	#
-tile.ochre_froglight.name=황토빛 개구리등	#
