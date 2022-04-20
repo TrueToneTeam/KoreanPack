@@ -10032,6 +10032,7 @@ enchantment.swift_sneak=재빠른 걸음	#
 
 itemGroup.name.sculk=스컬크	#
 itemGroup.name.goatHorn=염소 뿔	#
+itemGroup.name.copperHorn=구리 뿔	#
 itemGroup.name.chestboat=상자가 실린 보트	#
 
 tile.sculk.name=스컬크	#
@@ -10086,6 +10087,40 @@ item.mangrove_door.name=맹그로브나무 문	#
 item.mangrove_sign.name=맹그로브나무 표지판	#
 item.echo_shard.name=공명 조각	#
 item.recovery_compass.name=만회 나침반	#
+
+item.copper_horn.name=구리 뿔	#
+item.minecraft.copper_horn.harmony.0=위대한	#
+item.minecraft.copper_horn.harmony.1=오래된	#
+item.minecraft.copper_horn.harmony.2=순수한	#
+item.minecraft.copper_horn.harmony.3=초라한	#
+item.minecraft.copper_horn.harmony.4=건조한	#
+item.minecraft.copper_horn.harmony.5=깨끗한	#
+item.minecraft.copper_horn.harmony.6=신선한	#
+item.minecraft.copper_horn.harmony.7=비밀	#
+item.minecraft.copper_horn.harmony.8=겁 없는	#
+item.minecraft.copper_horn.harmony.9=다정한	#
+
+item.minecraft.copper_horn.melody.0=하늘	#
+item.minecraft.copper_horn.melody.1=찬가	#
+item.minecraft.copper_horn.melody.2=물	#
+item.minecraft.copper_horn.melody.3=불	#
+item.minecraft.copper_horn.melody.4=격려	#
+item.minecraft.copper_horn.melody.5=기질	#
+item.minecraft.copper_horn.melody.6=둥지	#
+item.minecraft.copper_horn.melody.7=호수	#
+item.minecraft.copper_horn.melody.8=강	#
+item.minecraft.copper_horn.melody.9=달	#
+
+item.minecraft.copper_horn.bass.0=낙하	#
+item.minecraft.copper_horn.bass.1=휴식	#
+item.minecraft.copper_horn.bass.2=소망	#
+item.minecraft.copper_horn.bass.3=기억	#
+item.minecraft.copper_horn.bass.4=분노	#
+item.minecraft.copper_horn.bass.5=여정	#
+item.minecraft.copper_horn.bass.6=생각	#
+item.minecraft.copper_horn.bass.7=눈물	#
+item.minecraft.copper_horn.bass.8=선물	#
+item.minecraft.copper_horn.bass.9=사랑	#
 
 item.minecraft.goat_horn.sound.0=생각	#
 item.minecraft.goat_horn.sound.1=노래	#
