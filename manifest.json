@@ -4,15 +4,24 @@
 	"description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.\n올바르지 않거나 재번역이 필요한 부분을 루나에게 알려주세요!\n원작자외 공유시 원작자에게 알린 후 공유해주세요!",
         "name": "[MCBE] Korean Pack",
         "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
+<<<<<<< HEAD
         "version": [ 1, 18, 4 ],
         "min_engine_version": [ 1, 18, 30 ]
+=======
+        "version": [1, 18, 2],
+        "min_engine_version": [1, 18, 30]
+>>>>>>> parent of dcfe048 (Korean Pack(v1.18.3) Update!!)
     },
     "modules": [
         {
             "description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.\n올바르지 않거나 재번역이 필요한 부분을 루나에게 알려주세요!\n원작자외 공유시 원작자에게 알린 후 공유해주세요!",
             "type": "resources",
             "uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
+<<<<<<< HEAD
             "version": [ 1, 18, 4 ]
+=======
+            "version": [1, 18, 2]
+>>>>>>> parent of dcfe048 (Korean Pack(v1.18.3) Update!!)
         }
     ]
 }
