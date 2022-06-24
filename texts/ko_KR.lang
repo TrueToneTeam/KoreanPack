@@ -513,6 +513,10 @@ chat.type.emote=* %s %s	#
 chat.type.sleeping=%s 님이 침대에서 자고 있습니다. 시간을 새벽으로 건너뛰려면 모든 플레이어가 잠들어야 합니다.	#
 chat.type.text=<%s> %s	#
 chat.renamed=이 서버상에서 내 이름이 임시로 '%s'(으)로 변경되었습니다.	#
+chat.coordinateTypePosition=내 위치	#
+chat.coordinateTypeFacing=블록 위치	#
+chat.coordinateCopiedToast=좌표가 복사되었습니다.	#
+chat.coordinatesInvalid=유효하지 않은 좌표	#
 
 chestScreen.header.large=큰 상자	#
 chestScreen.header.player=소지품	#
