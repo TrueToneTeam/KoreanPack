@@ -5807,6 +5807,7 @@ options.title=설정	#
 options.toggle=전환	#
 options.renderclouds=구름 렌더링	#
 options.toolboxMode=도구상자 모드	#
+options.copyCoordinateUI=좌표 복사 UI 활성화	#
 options.toggleCrouch=웅크리기 전환	#
 options.touch=터치	#
 options.touchSettings=터치 설정	#
