@@ -1,18 +1,17 @@
 {
-    "format_version": 2,
-    "header": {
-	"description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.\n올바르지 않거나 재번역이 필요한 부분을 루나에게 알려주세요!\n원작자외 공유시 원작자에게 알린 후 공유해주세요!",
-        "name": "[MCBE] Korean Pack",
-        "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
-        "version": [ 1, 19, 1 ],
-        "min_engine_version": [ 1, 19, 10 ]
-    },
-    "modules": [
-        {
-            "description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.\n올바르지 않거나 재번역이 필요한 부분을 루나에게 알려주세요!\n원작자외 공유시 원작자에게 알린 후 공유해주세요!",
-            "type": "resources",
-            "uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
-            "version": [ 1, 19, 1 ]
-        }
-    ]
+	"format_version": 2,
+	"header": {
+	"description": "§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f\n리소스 팩 버전: §bv1.19.3§3(Preview 1)§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
+		"name": "§lKorean Pack§7(Preview)§r",
+		"uuid": "d4408deb-e7a3-4d95-8719-ef5c0d888e43",
+		"version": [ 1, 19, 3 ],
+		"min_engine_version": [ 1, 19, 50 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "22af0ad2-6124-4fad-9bf6-ee1b16304f1a",
+			"version": [ 1, 19, 3 ]
+		}
+	]
 }
