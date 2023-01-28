@@ -7,7 +7,7 @@ Minecraft: Bedrock Edition에서 한국어 번역이 자연스럽게 보이도�
 > 공유시 주의사항:
  - 해당 리소스 팩 공유시 꼭 원작자에게 안내해주신 후에 공유 부탁드립니다.
  - 그리고 공유 할 때 원작자 닉네임도 표기해주시기 바랍니다.
- - 자세한 문의 사항은 koreanpack.truetone.kro.kr로 문의주세요!
+ - 공유와 관련하여 문의를 주실려면 하단에 기재되어 있는 방법으로 연락 바랍니다.
 
 <br>
 
@@ -19,9 +19,9 @@ Minecraft: Bedrock Edition에서 한국어 번역이 자연스럽게 보이도�
 
 <br>
 
-> 버그 또는 수정 사항 전달 방법:
- - 깃허브 **_Pull requests_** 작성
- - 깃허브 **_Issues_** 작성
+> 버그 또는 수정 사항 관련 문의 방법:
+ - Github **_Pull requests_** 작성
+ - Github **_Issues_** 작성
  - 이메일 truetone.kro.kr@gmail.com
 
 <br>
