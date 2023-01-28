@@ -12,10 +12,10 @@ Minecraft: Bedrock Edition에서 한국어 번역이 자연스럽게 보이도�
 <br>
 
 > 지원되는 소프트웨어:
- - Windows 10
+ - Windows 10 / Windows 11
  - Android
  - iOS/iPadOS
- - 기타 리소스 팩이 지원되는 기기
+ - Minecraft: Bedrock Edition이 구동되고 리소스 팩을 사용할 수 있는 기기
 
 <br>
 
