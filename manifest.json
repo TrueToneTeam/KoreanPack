@@ -1,17 +1,21 @@
 {
 	"format_version": 2,
 	"header": {
-	"description": "§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f\n리소스 팩 버전: §bv1.19.4§3(Preview 1)§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
+	"description": "§f리소스 팩 버전: §bv1.20.0§3(Preview 1)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
 		"name": "§lKorean Pack§7(Preview)§r",
-		"uuid": "a25e32d1-82c7-4cda-b4bc-b5b3f368a964",
+		"uuid": "98f569e6-77c8-4e45-a10e-8e33494ccd28",
 		"version": [ 0, 0, 1 ], //프리뷰 버전
-		"min_engine_version": [ 1, 19, 80 ]
+		"min_engine_version": [ 1, 20, 0 ]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "82a5d2b8-31c9-485f-a0d3-9902df852d0f",
-			"version": [ 1, 19, 4 ] //정식 버전
+			"uuid": "c2da2f07-5af2-49da-b275-6512f7f2f7df",
+			"version": [ 1, 20, 0 ] //정식 버전
 		}
-	]
+	],
+    "metadata": {
+        "authors": ["NeroLuna"],
+		"url": "https://truetoneteam.kro.kr"
+    }
 }
