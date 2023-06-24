@@ -1,18 +1,21 @@
 {
-    "format_version": 2,
-    "header": {
-	"description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.\n올바르지 않거나 재번역이 필요한 부분을 루나에게 알려주세요!\n원작자외 공유시 원작자에게 알린 후 공유해주세요!",
-        "name": "[MCBE] Korean Pack",
-        "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
-        "version": [ 1, 19, 3 ],
-        "min_engine_version": [ 1, 19, 70 ]
-    },
-    "modules": [
-        {
-            "description": "Minecraft: BE의 번역이 이상하거나 번역이 되어있지 않은 부분을 수정해주는 리소스 팩 입니다.\n올바르지 않거나 재번역이 필요한 부분을 루나에게 알려주세요!\n원작자외 공유시 원작자에게 알린 후 공유해주세요!",
-            "type": "resources",
-            "uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
-            "version": [ 1, 19, 3 ]
-        }
-    ]
+	"format_version": 2,
+	"header": {
+	"description": "§f리소스 팩 버전: §bv1.20.0§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f",
+		"name": "§lKorean Pack§r",
+		"uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
+		"version": [ 1, 20, 0 ],
+		"min_engine_version": [ 1, 20, 0 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
+			"version": [ 1, 20, 0 ]
+		}
+	],
+    "metadata": {
+        "authors": ["NeroLuna"],
+		"url": "https://truetoneteam.kro.kr"
+    }
 }
