@@ -1734,6 +1734,8 @@ createWorldScreen.clearPlayerData.all=모든 플레이어 데이터	#
 createWorldScreen.clearPlayerData.allExceptLocal=플레이어 데이터 유지	#
 createWorldScreen.clearPlayerData.cancel=취소	#
 createWorldScreen.clearPlayerData.progress=플레이어 데이터 지우는 중	#
+createWorldScreen.experimentalDeferredTechnicalPreview=제작자용 렌더드래곤 기능	#
+createWorldScreen.experimentalDeferredTechnicalPreviewDescription=디퍼드 렌더링 파이프라인을 활성화합니다. PBR 지원 리소스 팩 및 호환되는 하드웨어가 필요합니다.	#
 
 
 ## Cross Platform Toggle
