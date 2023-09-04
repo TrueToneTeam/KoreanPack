@@ -1,17 +1,17 @@
 {
 	"format_version": 2,
 	"header": {
-	"description": "§f리소스 팩 버전: §bv1.20.0§3(Preview 1)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
+	"description": "§f리소스 팩 버전: §bv1.20.2§3(Preview 1)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
 		"name": "§lKorean Pack§7(Preview)§r",
-		"uuid": "98f569e6-77c8-4e45-a10e-8e33494ccd28",
+		"uuid": "b08e1549-be25-4cab-806b-0bb75728347d",
 		"version": [ 0, 0, 1 ], //프리뷰 버전
-		"min_engine_version": [ 1, 20, 0 ]
+		"min_engine_version": [ 1, 20, 10 ]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "c2da2f07-5af2-49da-b275-6512f7f2f7df",
-			"version": [ 1, 20, 0 ] //정식 버전
+			"uuid": "ca890532-a198-4fe7-bd21-6be806e998cc",
+			"version": [ 1, 20, 2 ] //정식 버전
 		}
 	],
     "metadata": {
