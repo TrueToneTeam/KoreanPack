@@ -3,14 +3,14 @@
 	"header": {
 	"description": "§f리소스 팩 버전: §bv1.21.0(Ore UI)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f",
 		"name": "§lKorean Pack(Ore UI)§r",
-		"uuid": "fdcdb085-9f06-464f-bf0e-25c0b37ff4a5",
+		"uuid": "aef9de86-43e7-465f-94b3-785fe2a66b58",
 		"version": [ 1, 21, 0 ],
 		"min_engine_version": [ 1, 21, 0 ]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "a405939d-2d00-471a-a51b-64217336b480",
+			"uuid": "2110be12-4109-45b3-98ae-3aa0d77333e9",
 			"version": [ 1, 21, 0 ]
 		}
 	],
@@ -21,7 +21,7 @@
 	"settings": [
 		{
 			"type": "label",
-			"text": "§lKorean Pack(Ore UI)§r"
+			"text": "§lKorean Pack§r"
 		},
 		{
 			"type": "label",
