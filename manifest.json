@@ -1,21 +1,38 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "§f리소스 팩 버전: §bv1.20.4(Preview 2)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
+		"description": "§f리소스 팩 버전: §bv1.21.0(Preview 1)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f\n§7(해당 버전은 프리뷰 버전으로 정식 버전이 아닙니다.)§f",
 		"name": "§lKorean Pack§7(Preview)§r",
-		"uuid": "dc5f2114-0879-43a7-85d2-afe0721c12c2",
-		"version": [ 0, 0, 2 ], //프리뷰 버전
-		"min_engine_version": [ 1, 20, 50 ]
+		"uuid": "70072caf-d03b-44d4-8ab5-bdefbddb0da8",
+		"version": [ 0, 0, 1 ], //프리뷰 버전
+		"min_engine_version": [ 1, 21, 0 ]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "5c2f5ec7-5296-47a4-a840-902cd096813c",
-			"version": [ 1, 20, 4 ] //정식 버전
+			"uuid": "372a610f-a326-4d9d-b862-e5fa6c177ff6",
+			"version": [ 1, 21, 0 ] //정식 버전
 		}
 	],
     "metadata": {
-        "authors": ["NeroLuna"],
-		"url": "https://truetoneteam.kro.kr"
-    }
+        "authors": [ "Moonlight Team", "NeroLuna" ]
+    },
+	"settings": [
+		{
+			"type": "label",
+			"text": "§lKorean Pack§r§7(Preview)§f"
+		},
+		{
+			"type": "label",
+			"text": " * 해당 리소스 팩은 Minecraft: Bedrock Edition의 한국어 번역을 Java Edition과 유사하게 수정해주는 리소스 팩 입니다."
+		},
+		{
+			"type": "label",
+			"text": " * 해당 리소스 팩은 Moonlight Team(TrueToneTeam)에서 수정 및 제작했으며, 다른 곳에 배포 시 제작자 명과 Github 링크를 반드시 기재해주시기 바랍니다."
+		},
+		{
+			"type": "label",
+			"text": " * 기타 문의 사항은 §enerolunakr@gmail.com§f으로 연락주시기 바랍니다."
+		}
+	]
 }
