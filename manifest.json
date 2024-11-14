@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-	"description": "§f리소스 팩 버전: §bv1.21.0(Ore UI)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §atruetone.kro.kr@gmail.com§f",
-		"name": "§lKorean Pack(Ore UI)§r",
+		"name": "Korean Pack(Ore UI)",
+		"description": "§f버전: §hv1.21.0(Ore UI)§f\n§6Minecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
 		"uuid": "aef9de86-43e7-465f-94b3-785fe2a66b58",
 		"version": [ 1, 21, 0 ],
 		"min_engine_version": [ 1, 21, 0 ]
@@ -15,13 +15,12 @@
 		}
 	],
     "metadata": {
-        "authors": ["NeroLuna"],
-		"url": "https://truetoneteam.kro.kr"
+        "authors": [ "NeroLuna" ]
     },
 	"settings": [
 		{
 			"type": "label",
-			"text": "§lKorean Pack§r"
+			"text": "§lKorean Pack(Ore UI)§r"
 		},
 		{
 			"type": "label",
@@ -33,7 +32,7 @@
 		},
 		{
 			"type": "label",
-			"text": " * 기타 문의 사항은 §etruetone.kro.kr@gmail.com§f으로 연락주시기 바랍니다."
+			"text": " * 기타 문의 사항은 §enerolunakr@gmail.com§f으로 연락주시기 바랍니다."
 		}
 	]
 }
