@@ -7300,6 +7300,7 @@ permissions.level.member=멤버	#
 permissions.level.operator=운영자	#
 permissions.level.visitor=방문자	#
 permissions.nocheats=치트가 꺼져 있음	#
+permissions.nocheats.message=순간이동과 같은 특정 명령어를 사용하려면 치트가 켜져 있어야 합니다. 치트는 게임 메뉴의 게임 설정을 통해 켤 수 있습니다. 치트를 켜도록 선택하면 해당 월드에서 도전 과제가 비활성화됩니다.	#
 permissions.nocheats.message.noachievements=순간이동과 같은 특정 명령어를 사용하려면 치트가 켜져 있어야 합니다. 치트는 게임 메뉴의 게임 설정을 통해 켤 수 있습니다.	#
 permissions.nocheats.turnon=치트가 켜진 상태에서 관리자 권한 설정	#
 permissions.nocheats.turnoff=치트가 꺼진 상태에서 관리자 권한 설정	#
